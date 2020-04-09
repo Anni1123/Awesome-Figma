@@ -2,17 +2,25 @@
 
 This is a list of links that had helped me learn Figma and moving from Sketch. It's an incomplete list and I will keep adding more interesting links in the future. If you have questions or ideas you can get in touch via Twitter **[@FedeSanchez0](https://twitter.com/FedeSanchez0)**
 
+### Figma Course (Spanish)
+
+---
+
+[Figma - Curso Figma | De básico a avanzado](https://www.figma.com/community/file/787445668190608930/Curso-Figma)
+
 ### Getting to know Figma
 
 ---
 
-- 💻 **Official Accounts, Community & Blog**
+- 💻  **Official Accounts, Community, Best Practices & Blog**
 
     [Figma: the collaborative interface design tool.](https://www.figma.com)
 
     [The Official Blog of Figma](https://www.figma.com/blog/)
 
     [Figma](https://help.figma.com)
+
+    [Figma Best Practices](https://www.figma.com/best-practices/)
 
     [Design Dictionary from Figma](https://www.figma.com/dictionary/)
 
@@ -22,13 +30,15 @@ This is a list of links that had helped me learn Figma and moving from Sketch. I
 
     [Design Systems articles on building and maintaining design systems](https://www.designsystems.com)
 
+    [Beyond multiplayer: Building community together in Figma](https://www.figma.com/blog/introducing-figma-community?ref=producthunt)
+
     Figma is no longer publishing on Medium. Articles might be outdated.
 
     [Figma - Medium](https://medium.com/@figmadesign)
 
     [Figma Design - Medium](https://medium.com/figma-design)
 
-- 👥 **People to Follow**
+- 👥  **People to Follow**
 
     English
 
@@ -58,23 +68,65 @@ This is a list of links that had helped me learn Figma and moving from Sketch. I
 
     [Dustin Tanner (@dustanner) | Twitter](https://twitter.com/dustanner)
 
-    [Miguel Angel Cardona 📐 (@miggi) | Twitter](https://twitter.com/miggi)
-
     [Mikolaj Dobrucki (@mikolajdobrucki) | Twitter](https://twitter.com/mikolajdobrucki)
 
     Spanish
 
-    [Cris Busquets (@cbusquets) | Twitter](https://twitter.com/cbusquets)
+    [Pablo Alonso](https://twitter.com/_pabloalonso)
 
-    [Samuel Lopez (@sr_wilson) | Twitter](https://twitter.com/sr_wilson)
+    [Miguel Angel Cardona 📐 (@miggi) | Twitter](https://twitter.com/miggi)
 
     [Danny Saltaren (@dsaltaren) | Twitter](https://twitter.com/dsaltaren)
 
     [Rafa Garcés (@rafagarces) | Twitter](https://twitter.com/rafagarces)
 
-- 💎 **Moving from Sketch**
+    [Adrián Mato 🐙](https://twitter.com/adrianmg)
+
+    [Samuel Lopez (@sr_wilson) | Twitter](https://twitter.com/sr_wilson)
+
+    [Cris Busquets (@cbusquets) | Twitter](https://twitter.com/cbusquets)
+
+- `**New**` Community
+
+    [Figma - @figma](https://www.figma.com/@figma)
+
+    [Figma - @rsms](https://www.figma.com/@rsms)
+
+    [Figma - @zach](https://www.figma.com/@zach)
+
+    [Figma - @juanarreguin](https://www.figma.com/@juanarreguin)
+
+    [Figma - @g](https://www.figma.com/@g)
+
+    [Figma - @David](https://www.figma.com/@David)
+
+    [Figma - @slack](https://www.figma.com/@slack)
+
+    [Figma - @chicago](http://www.figma.com/@chicago)
+
+    [Figma - @Benfryc](https://www.figma.com/@Benfryc)
+
+    [Figma - @nerdfox](https://www.figma.com/@nerdfox)
+
+    [Figma - @fede](https://figma.com/@fede)
+
+- 💎  **Moving from Sketch**
+
+    [Migrating to Figma: the business case, the process, and the libraries](https://uxdesign.cc/migrating-to-figma-the-business-case-the-process-and-the-libraries-dedd205a9958)
+
+    [How we use Figma to make designing at Cuvva even better](https://www.cuvva.com/cuvva/how-we-use-figma-to-make-designing-at-cuvva-even-better/)
+
+    [Moving From Sketch To Figma: A Case Study Of Migrating Design Systems - Smashing Magazine](https://www.smashingmagazine.com/2019/09/migrating-design-systems-sketch-figma/)
+
+    [From Sketch To Figma](https://medium.com/@BuninDmitry/from-sketch-to-figma-daeb05eb7a44)
+
+    [Moving Bonfire to Figma](https://medium.com/bonfire/moving-bonfire-to-figma-b14af0136655)
+
+    [6 Months Designing With Figma](https://onesignal.com/blog/designing-with-figma/)
 
     [Design At Scale: One Year With Figma - Smashing Magazine](https://www.smashingmagazine.com/2019/04/design-scale-figma/)
+
+    [Sketch vs Figma, Adobe XD, And Other UI Design Applications - Smashing Magazine](https://www.smashingmagazine.com/2019/04/sketch-figma-adobe-xd-ui-design-applications/)
 
     [Our first 6 months with Figma - mendesaltaren - Medium](https://medium.com/mendesaltaren/our-first-6-months-with-figma-aef60cae5d89)
 
@@ -100,19 +152,35 @@ This is a list of links that had helped me learn Figma and moving from Sketch. I
 
     [](https://www.zomato.com/blog/why-we-switched-to-figma-as-a-primary-design-tool-at-zomato)
 
+    [Juan Arreguin on Twitter](https://twitter.com/JuanArreguin/status/1148301301328965633)
+
+    [Tool tips: How our design team switched to Figma | Inside Intercom](https://www.intercom.com/blog/design-team-switching-to-figma/)
+
 ### Learn the basics
 
 ---
 
-- 📐 **Grids**
+- 🔠  **Typography**
+
+    [Getting to the bottom of line height in Figma](https://www.figma.com/blog/line-height-changes/?utm_content=buffer1fb69&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
+    [Kick-start your typography system in Figma](https://www.figma.com/blog/kick-start-your-typography-system-in-figma/?utm_content=buffer19007&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
+    [Figma: A Fluid and Modular Design Approach to Typography with Components](https://insights.papertiger.com/figma-a-fluid-and-modular-design-approach-to-typography-with-components-a9feef8e84a6)
+
+    [Google Font Pairings](https://www.figma.com/google-fonts/)
+
+    [Julius Elias Sohn on Twitter](https://twitter.com/juliussohn/status/1185032782822559744?s=21)
+
+- 📐  **Grids**
 
     [Everything you need to know about layout grids in Figma](https://www.figma.com/blog/everything-you-need-to-know-about-layout-grids-in-figma/?utm_content=bufferd2fb7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
     [Grid Systems for Screen Design](https://www.figma.com/blog/grid-systems-for-screen-design/)
 
-- 🔷 **Version Control, Components & Design Systems**
+- 🔷  **Version Control, Components & Design Systems**
 
-    ![](https://images.ctfassets.net/1khq4uysbvty/6wW69yeBjCX9zdvqqnJ1rB/c76ad6f7d45513b8f7e702e1633acdd7/organize.png?w=1340)
+    ![https://images.ctfassets.net/1khq4uysbvty/6wW69yeBjCX9zdvqqnJ1rB/c76ad6f7d45513b8f7e702e1633acdd7/organize.png?w=1340](https://images.ctfassets.net/1khq4uysbvty/6wW69yeBjCX9zdvqqnJ1rB/c76ad6f7d45513b8f7e702e1633acdd7/organize.png?w=1340)
 
     [Components in Figma - Figma Design - Medium](https://medium.com/figma-design/components-in-figma-e7e80fcf6fd2)
 
@@ -142,23 +210,27 @@ This is a list of links that had helped me learn Figma and moving from Sketch. I
 
     [Tables UI design in Figma: data grid by a single component](https://uxdesign.cc/tables-ui-design-in-figma-data-grid-by-a-single-component-5d2c76c16f8)
 
-- 🔠 **Typography**
+- 🎨  **Templates & Resources**
 
-    [Getting to the bottom of line height in Figma](https://www.figma.com/blog/line-height-changes/?utm_content=buffer1fb69&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+    [Figma - Tailwind CSS UI | Figma Design Kit for TailwindCSS A utility-first CSS framework for rapid UI development. https:/...](https://www.figma.com/c/file/768809027799962739)
 
-    [Kick-start your typography system in Figma](https://www.figma.com/blog/kick-start-your-typography-system-in-figma/?utm_content=buffer19007&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+    [Figma - Table UI | Table UI for Figma](https://www.figma.com/c/file/769876453966544014)
 
-    [Figma: A Fluid and Modular Design Approach to Typography with Components](https://insights.papertiger.com/figma-a-fluid-and-modular-design-approach-to-typography-with-components-a9feef8e84a6)
+    [Figma](https://www.figma.com/file/sd3Yi27eQYbc6nKope0zCM/iOS%2FiPadOS-13-Design-UI-Kit)
 
-    [Google Font Pairings](https://www.figma.com/google-fonts/)
+    [Chicago Design System Component Library sticker sheet](https://www.figma.com/file/g9vsh5gXm99OgZR4OGiOIm/Chicago-Design-System-Component-Library-sticker-sheet)
 
-- 🎨 **Templates & Resources**
+    [cursorOS - original macos cursors](http://cursoros.com/)
 
     [Figma Freebies - Free UI Kits & Figma Resources](https://www.figmafreebies.com)
+
+    [Mobile App Templates, Wireframes, Flowcharts for Sketch, Figma and XD - Design Files](https://files.design)
 
     [Figma Resources & UI Kits - Figma Finder](https://www.figmafinder.com)
 
     [Community Resources Hub](https://www.figma.com/resources/)
+
+    [Figma Templates, UI kits and Freebies - Free Figma resources](https://www.figmacrush.com)
 
     [](https://www.figmaresources.com)
 
@@ -178,7 +250,25 @@ This is a list of links that had helped me learn Figma and moving from Sketch. I
 
     [Material Design Theme Kit](https://www.figma.com/file/8dbmFxPJdkh6FLxwSyCRiC/Material-Design-Theme-Kit/duplicate)
 
-- 🖥️ **Constraints & Responsive Design**
+    [Table Component.zip](Awesome%20Figma/Table_Component.zip)
+
+    Responsive Table Component
+
+    [Safari iOS Native - Design Files](https://files.design/templates/safari-ios)
+
+    [Cover Reference](https://www.figma.com/file/eYzKjgmXjtmdKoCQ3HS8jgQQ/Cover-Reference?node-id=1592%3A12)
+
+    [Social icons](https://www.figma.com/file/QzVoGZbHmk1wQJccsx0WqxlT/Social-icons?node-id=0%3A1)
+
+    [App Store Screenshots (iPhone)](https://www.figma.com/file/Q2RrS13ZoDhIhYj5eOBp6r/App-Store-Screenshots-(iPhone)?node-id=3%3A2)
+
+    [Lopper v1.0](https://www.figma.com/file/zBdcRyqui7RF8uBZd1RzyH/Lopper-v1.0?node-id=0%3A1)
+
+    [Details Design System](https://www.usedetails.com)
+
+    [Ant Design System for Figma](https://www.antforfigma.com)
+
+- 🖥️  **Constraints & Responsive Design**
 
     [5 essential ways to use design constraints](https://www.figma.com/blog/five-essential-ways-to-use-design-constraints/)
 
@@ -186,13 +276,17 @@ This is a list of links that had helped me learn Figma and moving from Sketch. I
 
     [Figma Tutorial: Constraints](https://www.youtube.com/watch?v=rRQAQ1d9q9w)
 
-- 📱 **Prototyping**
+    [How to create a component with an icon that can adapt its position? · Figma](https://spectrum.chat/figma/general/how-to-create-a-component-with-an-icon-that-can-adapt-its-position~ad6a52cc-402d-4e22-af46-5548e0541473)
+
+- 📱  **Prototyping**
 
     [4 Figma Tips For Prototyping Like A Pro](https://blog.prototypr.io/4-figma-tips-for-prototyping-like-a-pro-c08a3228ff87)
 
     [5 ways to level up your prototyping workflow in Figma](https://www.figma.com/blog/proto-gp-5-ways-to-level-up-your-prototyping-workflow/?utm_content=buffer5d15a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
-- 🧩 **Integrations**
+    [Designing for top feature requests, like Smart Animate](https://www.figma.com/blog/announcing-smart-animate-and-advanced-transitions/)
+
+- 🧩  **Integrations**
 
     [ProtoPie - Create the most advanced prototypes as easy as Pie](https://www.protopie.io)
 
@@ -206,13 +300,79 @@ This is a list of links that had helped me learn Figma and moving from Sketch. I
 
     [zeroheight · document your design systems, together](https://zeroheight.com)
 
+    [Building a design system using Figma and Zeroheight](https://uxdesign.cc/building-a-design-system-using-figma-and-zeroheight-bfa92b5fefcf)
+
     [Figma ❤️ Lottie](https://www.chicken.tacos.wtf)
+
+    [Think You Can't Animate Your Figma Designs? Think Again! [figma + protopie]](https://www.youtube.com/watch?v=dvUCW7PZ5CY)
+
+- **Design Systems (Naming conventions, Organization...)**
+
+    [Design File Hygiene · Figma](https://spectrum.chat/figma/workflow-and-process/design-file-hygiene~b2d119ab-8bfd-4343-b5b1-7a35d7d5f612)
+
+    [How Kiwi.com handles project structure, versioning & components in Figma](https://www.notion.so/How-Kiwi-com-handles-project-structure-versioning-components-in-Figma-745c34dc5f944465a4a46bafff1015ae)
+
+- **Handoff**
+
+    [Figma onboarding for developers](https://www.figma.com/file/MvE8FXnTXUDBnN72HQzD2x/Figma-onboarding-for-developers?node-id=0%3A1)
+
+    [Tips for a better developer workflow in Figma](https://www.figma.com/blog/tips-for-a-better-developer-workflow-in-figma/)
+
+- 🧩  **Plugins**
+
+    [Introduction · Figma Developers](https://www.figma.com/plugin-docs/intro/)
+
+    [Top 10 Figma Plugins (For Now)](https://medium.com/unfoldco/top-10-figma-plugins-for-now-be0ed2ad251d)
+
+    [rsms/figplug](https://github.com/rsms/figplug)
+
+    [Automating my job with a Figma plugin.](https://blog.usejournal.com/automating-my-job-with-a-figma-plugin-2b0bc4c27bcd)
+
+- `**New**` **Autolayout**
+
+    [Quick tips for Auto-Layout in Figma](https://uxdesign.cc/quick-tips-for-auto-layout-in-figma-411c639a51b0)
+
+    [Create Dynamic Designs with Auto Layout](https://help.figma.com/article/453-auto-layout)
+
+    [Figma Tutorial: Auto Layout](https://www.youtube.com/watch?v=NrKX46DzkGQ)
+
+    [Design more, resize less, with Auto Layout](https://www.figma.com/blog/announcing-auto-layout/)
 
 ### Master Figma
 
 ---
 
-- 🎯 **Tips & Tricks**
+- 🎯  **Tips & Tricks**
+
+    [Gleb Sabirzyanov on Twitter](https://twitter.com/zyumbik/status/1206494635591393280?s=20)
+
+    [Brian Lovin on Twitter](https://twitter.com/brian_lovin/status/1191795410064625664?s=21)
+
+    [Figma on Twitter](https://twitter.com/figmadesign/status/1181947754928578561?s=20)
+
+    [Yitong on Twitter](https://twitter.com/zhayitong/status/1179820003291361280?s=20)
+
+    [Figma on Twitter](https://twitter.com/figmadesign/status/1171504662999994368)
+
+    [Figma on Twitter](https://twitter.com/figmadesign/status/1172182480369127427?s=17)
+
+    [10 tips on using components in Figma](https://medium.com/design-with-figma/10-tips-on-using-components-in-figma-c7db9c5e7fe1)
+
+    [Chris Martin on Twitter](https://twitter.com/chris_mrtn/status/1169060690310631425?s=20)
+
+    [Creating Bulleted Lists - Figma](https://help.figma.com/article/297-creating-bulleted-lists)
+
+    [Here is how I create better TEXT Components. · Figma](https://spectrum.chat/figma/general/here-is-how-i-create-better-text-components~f5e443f9-9195-46b7-86f7-d0afe7b12f65)
+
+    [How to create a component with an icon that can adapt its position? · Figma](https://spectrum.chat/figma/general/how-to-create-a-component-with-an-icon-that-can-adapt-its-position~ad6a52cc-402d-4e22-af46-5548e0541473)
+
+    [Responsive Table with Fixed Columns · Figma](https://spectrum.chat/figma/open-design/responsive-table-with-fixed-columns~83ef1785-94d7-4fce-8992-9ae699a97603)
+
+    [Václav Vančura on Twitter](https://twitter.com/vancura/status/956615864387809282)
+
+    [Just discovered a way to make "breakpoints" in components · Figma](https://spectrum.chat/figma/workflow-and-process/just-discovered-a-way-to-make-breakpoints-in-components~9421b172-a81b-4221-a825-1dac4b717f88)
+
+    [Miguel Angel Cardona 📐 on Twitter](https://twitter.com/miggi/status/1145723759359397889)
 
     [Ryan Morrison on Twitter](https://twitter.com/ryryjmo/status/956342323675189248)
 
@@ -276,7 +436,13 @@ This is a list of links that had helped me learn Figma and moving from Sketch. I
 
     [Gerrit Halfmann on Twitter](https://twitter.com/halfmage/status/976455863845171205?ref_src=twsrc%5Etfw&ref_url=notion%3A%2F%2Fwww.notion.so%2F513b259b3a8a4f9f9d1ff3b2a1c79d67)
 
-- 📼 **Video**
+    [Alex Tran on Twitter](https://twitter.com/wolfinthecity_/status/1151913642373160960)
+
+    [Figma Tips To Kick-Start Your Design Workflow — Smashing Magazine](https://www.notion.so/Figma-Tips-To-Kick-Start-Your-Design-Workflow-Smashing-Magazine-615f09a1edcc45cdbf544e96305acbda)
+
+    [Figma on Twitter](https://twitter.com/figmadesign/status/1189682291838267393?s=21)
+
+- 📼  **Video**
 
     [Figma Tutorial: Team Library](https://www.youtube.com/watch?v=PgRUEyw9xpo)
 
@@ -284,7 +450,13 @@ This is a list of links that had helped me learn Figma and moving from Sketch. I
 
     [Figma Livestream-Zeroheight's Figma integration](https://www.youtube.com/watch?v=TlcQvhbpejg)
 
-- 🧵 **Misc**
+    [How to Design Flexible Button Components in Figma | UX / UI Design](https://www.youtube.com/watch?v=9xBahCYnzlA)
+
+    [How to Design Complex Components in Figma | Card UI with Layout Grids](https://www.youtube.com/watch?v=TS87r64iAVE)
+
+    [Figma Tutorial: Components - The Basics](https://www.youtube.com/watch?v=k74IrUNaJVk&list=PLXDU_eVOJTx5LSjOmeBYMuvaa4UayfMe4)
+
+- 🧵  **Misc**
 
     [Figma Tutorial: Isometric Frames](https://dribbble.com/shots/4392668-Figma-Tutorial-Isometric-Frames)
 
@@ -300,7 +472,9 @@ This is a list of links that had helped me learn Figma and moving from Sketch. I
 
     [Alex 🌚 on Twitter](https://twitter.com/alexmuench/status/1129425448004403201?s=12)
 
-- 🎓 **Courses**
+    [5 ways to use Figma that you probably never thought of](https://www.figma.com/blog/five-ways-to-use-figma-that-you-probably-never-thought-of/)
+
+- 🎓  **Courses**
 
     [Design System Course in Figma by Design+Code](https://designcode.io/design-system-figma)
 
